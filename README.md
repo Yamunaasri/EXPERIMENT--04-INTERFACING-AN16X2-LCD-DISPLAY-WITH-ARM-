@@ -1,5 +1,6 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
-
+Name : Yamunaasri T S
+Register no : 212222240117
 
  ## Aim: 
  To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
